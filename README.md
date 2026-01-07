@@ -2,12 +2,25 @@
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
+## W1
+### Activity 1:
 
-Hit enter TWICE to create a new line.
+- Try to understand how the code is working and the syntax behind it
 
+### Activity 2:
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
+1. 10
 
+2. 2
 
-Remove all placeholder text in order to get full credit for README file formatting.
+3. Prints "hello world" in the console every frame
+
+4. MonoBehaviour - it passes data into a method
+
+5. Prints "x = 10" in the console when the game starts
+
+6. Arguments - they 
+
+7. Translate can not be called on Transform
+
+8. Call Translate on _playerObject instead
