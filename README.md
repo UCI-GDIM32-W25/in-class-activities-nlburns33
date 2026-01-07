@@ -5,7 +5,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 ## W1
 ### Activity 1:
 
-- Try to understand how the code is working and the syntax behind it
+Our advice was to understand how each line of code is working and the syntax behind it.
 
 ### Activity 2:
 
