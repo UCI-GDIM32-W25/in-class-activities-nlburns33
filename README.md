@@ -17,3 +17,8 @@ Our advice was to understand how each line of code is working and the syntax beh
 
 ### Activity 3
 [MG1 Google Doc](https://docs.google.com/document/d/1KhRQZLNVzs5TZGDPKFDH77RtlX_e1vGLo3YVHySjxfM/edit?usp=sharing)
+
+## W2
+### Activity 1:
+![IMG_20260113_180206993](https://github.com/user-attachments/assets/7f017cda-8e1b-4338-b24f-a8de779f6fc9)
+
