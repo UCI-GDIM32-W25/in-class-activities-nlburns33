@@ -24,5 +24,6 @@ Our advice was to understand how each line of code is working and the syntax beh
 
 ### Activity 2:
 [Commit](https://github.com/UCI-GDIM32-W25/mg2-nlburns33/commit/0643ed09a23a2dbd920dc5f2b5676b8e1f6881a7)
+
 I finished almost all the features except for the points text updating and coins being removed after leaving the screen. The coins spawn and move and the player can jump and collect them. 
 
