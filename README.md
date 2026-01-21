@@ -31,3 +31,5 @@ I finished almost all the features except for the points text updating and coins
 ### Activities 0-2
 Brendan Johnston
 ### Activity 3
+![IMG_20260120_181014865](https://github.com/user-attachments/assets/122cf064-ddcb-465e-8fd4-ccfc70d1bd77)
+
