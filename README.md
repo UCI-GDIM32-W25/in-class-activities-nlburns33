@@ -27,3 +27,7 @@ Our advice was to understand how each line of code is working and the syntax beh
 
 I finished almost all the features except for the points text updating and coins being removed after leaving the screen. The coins spawn and move and the player can jump and collect them. 
 
+## W3
+### Activities 0-2
+Brendan Johnston
+### Activity 3
