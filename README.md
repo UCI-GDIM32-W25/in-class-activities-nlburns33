@@ -33,3 +33,9 @@ Brendan Johnston
 ### Activity 3
 ![4f40597e-191a-4cd6-8971-cd2e2448c7cd~1](https://github.com/user-attachments/assets/55fd88bc-2734-4f71-9c3f-7817a3ce694d)
 
+## W4
+### Activity 0
+Audrey Hu, Brendan Johnston
+### Activity 1
+When multiple Locator objects are added, all but one of their Locator components are destroyed. The Locator gameObjects, however, remain. This happens because the Locator class checks if there is already an instance of the Locator class that isn't itself and deletes it if so.
+### Activity 2
