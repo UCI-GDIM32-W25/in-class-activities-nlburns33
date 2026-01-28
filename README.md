@@ -37,7 +37,10 @@ Brendan Johnston
 ### Activity 0
 Audrey Hu, Brendan Johnston
 ### Activity 1
-When multiple Locator objects are added, all but one of their Locator components are destroyed. The Locator gameObjects, however, remain. This happens because the Locator class checks if there is already an instance of the Locator class that isn't itself and deletes it if so.
+When multiple Locator objects are added, all but one of their Locator components are destroyed. The Locator gameObjects, however, remain. This happens because the Locator class checks if there is already an instance of the Locator class that isn't itself and deletes itself if so.
 ### Activity 2
 ![IMG_20260127_185701073](https://github.com/user-attachments/assets/41f67832-d363-4372-aec9-a23695035802)
+### Activity 3
+[Commit](https://github.com/nlburns33/HW4/commit/e0ae3fbdcf1a2a84dab08e27ff304b7a4a3617a8)
 
+I created the pipe, player, and ground game objects and created a Locator class. I got the pipes moving to the left and started setting up colliders.
