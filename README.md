@@ -39,3 +39,5 @@ Audrey Hu, Brendan Johnston
 ### Activity 1
 When multiple Locator objects are added, all but one of their Locator components are destroyed. The Locator gameObjects, however, remain. This happens because the Locator class checks if there is already an instance of the Locator class that isn't itself and deletes it if so.
 ### Activity 2
+![IMG_20260127_185701073](https://github.com/user-attachments/assets/41f67832-d363-4372-aec9-a23695035802)
+
