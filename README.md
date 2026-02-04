@@ -44,3 +44,18 @@ When multiple Locator objects are added, all but one of their Locator components
 [Commit](https://github.com/nlburns33/HW4/commit/e0ae3fbdcf1a2a84dab08e27ff304b7a4a3617a8)
 
 I created the pipe, player, and ground game objects and created a Locator class. I got the pipes moving to the left and started setting up colliders.
+
+## W5
+### Activity 1
+I wouldn't hard code the durability or damage variables in the code, I would make them easily changeable. Otherwise, I think the structure is fine. It is relatively easy to navigate and understand what each thing is supposed to do.
+### Activity 2
+The model aspect is represented by the ItemW5Demo2 and EnemyStats classes, the view aspect is represented by the InventoryUI and DialogueBubble classes, and the controller aspect is represented by the PlayerW5Demo2 and EnemyW5Demo2 classes.
+### Activity 3
+Scenario 1: ScriptableObjects can be used to hold the data for when a beat is or what type of a beat it is.
+
+Scenario 2: A finite state machine would be useful to handle player states like shooting and movement and control animations. It could also use inheritance with polymorphism for the different characters and weapons as well as scriptableobjects to hold the stats. The Model-View-Controller paradigm with C# events could handle kills and game actions like starting or ending.
+
+Scenario 3: State machines can be used for plant growth states.
+### Activity 4
+Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
+[Proposal Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)
