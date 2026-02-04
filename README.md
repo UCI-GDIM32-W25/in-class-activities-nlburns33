@@ -58,4 +58,5 @@ Scenario 2: A finite state machine would be useful to handle player states like 
 Scenario 3: State machines can be used for plant growth states.
 ### Activity 4
 Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
+
 [Proposal Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)
