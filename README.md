@@ -51,11 +51,12 @@ I wouldn't hard code the durability or damage variables in the code, I would mak
 ### Activity 2
 The model aspect is represented by the ItemW5Demo2 and EnemyStats classes, the view aspect is represented by the InventoryUI and DialogueBubble classes, and the controller aspect is represented by the PlayerW5Demo2 and EnemyW5Demo2 classes.
 ### Activity 3
-Scenario 1: ScriptableObjects can be used to hold the data for when a beat is or what type of a beat it is.
-
-Scenario 2: A finite state machine would be useful to handle player states like shooting and movement and control animations. It could also use inheritance with polymorphism for the different characters and weapons as well as scriptableobjects to hold the stats. The Model-View-Controller paradigm with C# events could handle kills and game actions like starting or ending.
-
-Scenario 3: State machines can be used for plant growth states.
+#### Scenario 1 
+ScriptableObjects can be used to hold the data for when a beat is or what type of a beat it is.
+#### Scenario 2 
+A finite state machine would be useful to handle player states like shooting and movement and control animations. It could also use inheritance with polymorphism for the different characters and weapons as well as scriptableobjects to hold the stats. The Model-View-Controller paradigm with C# events could handle kills and game actions like starting or ending.
+#### Scenario 3
+State machines can be used for plant growth states.
 ### Activity 4
 Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
 
