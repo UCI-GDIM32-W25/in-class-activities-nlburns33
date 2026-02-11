@@ -64,17 +64,19 @@ Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
 
 ## W6
 ### Activity 1
-- Profiler: Window -> analysis -> profiler
+#### Profiler
+- Window -> analysis -> profiler
 - The profiler seems incredibly useful for large projects
 - Spikes = bad, tells how long methods take to execute
 - Hierarchy orders them neatly by time
 - Can find individual problem methods
 
+#### Gizmos
 - Gizmos: done with a method (OnDrawGizmos)
 - Can be used to check many things in the scene view, especially colliders
 - Can show things debug.log really can't
 
-
+#### Breakpoints
 - Breakpoints: Click to the left of a line in code editor, then attach to unity
 - Stops program 
 - Shows current state of variables
