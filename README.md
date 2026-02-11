@@ -61,3 +61,26 @@ State machines can be used for plant growth states.
 Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
 
 [Proposal Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)
+
+## W6
+### Activity 1
+- Profiler: Window -> analysis -> profiler
+- The profiler seems incredibly useful for large projects
+- Spikes = bad, tells how long methods take to execute
+- Hierarchy orders them neatly by time
+- Can find individual problem methods
+
+- Gizmos: done with a method (OnDrawGizmos)
+- Can be used to check many things in the scene view, especially colliders
+- Can show things debug.log really can't
+
+
+- Breakpoints: Click to the left of a line in code editor, then attach to unity
+- Stops program 
+- Shows current state of variables
+- Really useful for checking to see if a line ran or order of running
+
+### Activity 2
+Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
+
+[Proposal Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)
