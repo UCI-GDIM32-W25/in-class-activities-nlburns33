@@ -97,4 +97,10 @@ Attendance: Nolan Burns, Brendan Johnston, Audrey Hu.
 ### Activity 3
 <img width="1387" height="770" alt="Screenshot 2026-02-17 181805" src="https://github.com/user-attachments/assets/e947c737-e2c3-4640-9316-545b45c09f6d" />
 
+### Activity 4
+[Trello Board](https://trello.com/invite/b/6995221d29a759665cbca1a0/ATTI34c9d8c5816e8677dba64abf85c9678701811D3A/gdim-32-final)
+
+### Activity 5
+[Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/a7c4c8168ead93fee64cd512168e5ddad4d20621)
+
 
