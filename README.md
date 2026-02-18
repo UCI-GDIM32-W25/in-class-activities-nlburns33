@@ -103,4 +103,6 @@ Attendance: Nolan Burns, Brendan Johnston, Audrey Hu.
 ### Activity 5
 [Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/a7c4c8168ead93fee64cd512168e5ddad4d20621)
 
+I created the game object for the main NPC and started his movement script.
+
 
