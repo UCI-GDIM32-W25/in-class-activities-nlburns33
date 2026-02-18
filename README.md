@@ -86,3 +86,12 @@ Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
 Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
 
 [Proposal Draft](https://docs.google.com/document/d/1ol46riGsVF4tNG4s7EXD49n7NhyEQPBzmpgfhnkQLt8/edit?usp=sharing)
+
+## W7
+### Activity 1
+- Raycasts can be used to check if something can see something else, then update a state machine
+- Raycasts have a start location, direction, and distance
+- Sphere casts can be used to avoid obstacles
+### Activity 2
+Attendance: Nolan Burns, Brendan Johnston, Audrey Hu.
+### Activity 3

@@ -53,12 +53,12 @@ public class DuckW71 : MonoBehaviour
 
             // get vector pointing from the duck to the player
             _playerToMe = transform.position - _playerPos;
-            _playerToMe = _playerToMe.normalized;
+            _playerToMe = _playerToMe;
             
             // test if dot product between _playerToMe and my forward vector is positive
             // essentially, test if me and the player are facing each other
             float dot = Vector3.Dot(_playerToMe, _playerForward);
-            Debug.Log(dot);
+            Debug.Log("Dot: " + dot);
             bool playerIsFacingMe = dot >= 0;
 
             if(playerIsFacingMe)
