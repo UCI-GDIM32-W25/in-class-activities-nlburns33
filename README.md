@@ -105,4 +105,28 @@ Attendance: Nolan Burns, Brendan Johnston, Audrey Hu.
 
 I created the game object for the main NPC and started his movement script.
 
+## W8
+### Activity 1
+- Need to check rendering pipeline compatability of asset store assets
+- Postprocessing is generally quite demanding but can make a game look much better
+- Runs after everything else is drawn
+- Need postprocessing package first
+### Activity 2
+Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
+### Activity 3 
+- slow movement
+- Finish rest of the quest
+- Colliders seem fine
+- Bug with climbing on manager
+- Likes animations
+- Smooth  movement
+- Knife phasing through things
+- Fix outside, take away walls
+### Activity 4
+My task is to fix the Manager NPC's colliders and add colliders to the rest of the restaurant.
+### Activity 5
+[Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/f8d53ab414fcfc0cb85f7f525ec4b7b22d84da1f)
+
+I fixed the colliders of the Manager NPC and some other objects. I also added a skybox to the scene.
+
 
