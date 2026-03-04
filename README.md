@@ -129,4 +129,31 @@ My task is to fix the Manager NPC's colliders and add colliders to the rest of t
 
 I fixed the colliders of the Manager NPC and some other objects. I also added a skybox to the scene.
 
+## W9
+### Activity 1
+- Scriptable objects make the system scale far easier
+- Data regarding each sequence is put into these scriptable objects
+- The reply is another scriptable object that gets linked through the inspector
+- Requires just a handful of general methods instead of a method for each reply
+### Activity 2
+Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
+### Activity 3
+Goals: 
+- Does the manager have acceptable colliders?
+- Is the sensitivity and movement good?
+
+
+- UI looks good
+- A little unclear to get the potato first
+- Sensitivity still high
+- Controls are smooth enough
+- counter collider could be slightly larger
+- You can fit between the machines
+### Activity 4
+The progress we have made in our project seems to match where we should be. Although we only have a portion of the items done, once one item is done it is much easier to implement other ones as they share a lot of functionality. We have also completed most of the scene and deocration work, which is rather time-consuming process. Our project scope seems reasonable, and we are confident in our ability to have all the features done on time.
+### Activity 5
+[Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/eb0145c818a94860be6e14692e5229c4b53f13bd)
+
+I started work on the dialogue system, creating the first few nodes and the dialogue controller script.
+
 
