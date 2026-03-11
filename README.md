@@ -156,4 +156,21 @@ The progress we have made in our project seems to match where we should be. Alth
 
 I started work on the dialogue system, creating the first few nodes and the dialogue controller script.
 
+## W10
+### Activity 1
+Attendance: Nolan Burns, Brendan Johnston, Audrey Hu
+### Activity 2
+Goal: To test the functionality of our implementation of quest progress tracking.
+- make e to advance dialogue more evident 
+- give npcs name tags
+- fix sphere cast for timmy’s tray 
+- give more info for fry quest even in marriage insults
+- player can get too close to windows
+- Model transitions was smooth
+- Movement was smooth
+### Activity 3
+We are finished with the first quest and have the foundations for the second quest, which should be quicker to implement. Theoretically, adding the second quest will take less time as the framework is already developed, but issues could pop up. Our current progress, therefore, aligns with how far along we should be, assuming implementation of the second quest doesn't introduce a lot of issues.
+### Activity 4
+[Commit](https://github.com/prettypinkanteater/GDIM32-Final/commit/40b19c2cb6ac8cc6a46b38ae18b6d9ee9cedf193)
 
+I updated the condition for being able to pick up the first item so that you have to talk to the manager first. I also put in the necessary code to allow adding a UI-related event later.
